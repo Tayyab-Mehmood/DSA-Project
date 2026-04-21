@@ -1,16 +1,9 @@
-
 Screenshots / Sample Output 
 • Menu Screen Output 
- • Progress Bar while Scanning 
- 
-Created by Xodo PDF Studio. Learn more at xodo.com/pdf-studio
-• Plagiarism Comparison Table 
- 
-• CSV Export Confirmation 
-  
-Created by Xodo PDF Studio. Learn more at xodo.com/pdf-studio
- • Files Confirmation 
- 
+<img width="576" height="192" alt="image" src="https://github.com/user-attachments/assets/b24f2b58-8487-470a-9ce0-dd2111faad79" />
+
+
+
 
 
 # Student Plagiarism Detection System
