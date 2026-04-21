@@ -1,6 +1,17 @@
 Screenshots / Sample Output 
 • Menu Screen Output 
 <img width="576" height="192" alt="image" src="https://github.com/user-attachments/assets/b24f2b58-8487-470a-9ce0-dd2111faad79" />
+ • Progress Bar while Scanning 
+ <img width="576" height="317" alt="image" src="https://github.com/user-attachments/assets/190c6d9c-0175-4c61-b68d-cdf6a8823ba0" />
+Plagiarism Comparison Table 
+<img width="576" height="237" alt="image" src="https://github.com/user-attachments/assets/5816d222-03ae-4ec0-add6-12cf8acb240c" />
+• CSV Export Confirmation 
+<img width="576" height="136" alt="image" src="https://github.com/user-attachments/assets/f8eac4c4-2532-4fb7-9928-f944f4acea8a" />
+<img width="900" height="559" alt="image" src="https://github.com/user-attachments/assets/69963fc4-fdc1-4d66-a650-bb9ca47897bb" />
+<img width="900" height="149" alt="image" src="https://github.com/user-attachments/assets/7871ce8d-61a8-4ec1-826b-b6deb36984c0" />
+
+
+
 
 
 
