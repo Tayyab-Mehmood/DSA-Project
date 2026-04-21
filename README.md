@@ -1,3 +1,4 @@
+# Student Plagiarism Detection System
 Screenshots / Sample Output 
 • Menu Screen Output 
 <img width="576" height="192" alt="image" src="https://github.com/user-attachments/assets/b24f2b58-8487-470a-9ce0-dd2111faad79" />
@@ -17,7 +18,7 @@ Plagiarism Comparison Table
 
 
 
-# Student Plagiarism Detection System
+
 
 ## Description
 
