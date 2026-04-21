@@ -1,0 +1,11 @@
+File1,File2,Plagiarism
+student1.txt,student2.txt,100
+student1.txt,student3.txt,66.6667
+student1.txt,student4.txt,0
+student1.txt,student5.txt,0
+student2.txt,student3.txt,66.6667
+student2.txt,student4.txt,0
+student2.txt,student5.txt,0
+student3.txt,student4.txt,0
+student3.txt,student5.txt,0
+student4.txt,student5.txt,0
