@@ -1,27 +1,25 @@
 # Student Plagiarism Detection System
-## 📸 Screenshots / Sample Output
+## 📸 Screenshots 
 
-<p align="center">
+**• Menu Screen Output**
 
-  <strong>• Menu Screen Output</strong><br/><br/>
-  <img src="https://github.com/user-attachments/assets/b24f2b58-8487-470a-9ce0-dd2111faad79" width="280" />
-  &nbsp;&nbsp;
-  <strong>• Progress Bar while Scanning</strong><br/><br/>
-  <img src="https://github.com/user-attachments/assets/190c6d9c-0175-4c61-b68d-cdf6a8823ba0" width="280" />
-  &nbsp;&nbsp;
-  <strong>• Plagiarism Comparison Table</strong><br/><br/>
-  <img src="https://github.com/user-attachments/assets/5816d222-03ae-4ec0-add6-12cf8acb240c" width="280" />
+<img src="https://github.com/user-attachments/assets/b24f2b58-8487-470a-9ce0-dd2111faad79" width="500" />
 
-  <br/><br/>
+**• Progress Bar while Scanning**
 
-  <strong>• CSV Export Confirmation</strong><br/><br/>
-  <img src="https://github.com/user-attachments/assets/f8eac4c4-2532-4fb7-9928-f944f4acea8a" width="280" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/69963fc4-fdc1-4d66-a650-bb9ca47897bb" width="280" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/7871ce8d-61a8-4ec1-826b-b6deb36984c0" width="280" />
+<img src="https://github.com/user-attachments/assets/190c6d9c-0175-4c61-b68d-cdf6a8823ba0" width="500" />
 
-</p>
+**• Plagiarism Comparison Table**
+
+<img src="https://github.com/user-attachments/assets/5816d222-03ae-4ec0-add6-12cf8acb240c" width="500" />
+
+**• CSV Export Confirmation**
+
+<img src="https://github.com/user-attachments/assets/f8eac4c4-2532-4fb7-9928-f944f4acea8a" width="500" />
+
+<img src="https://github.com/user-attachments/assets/69963fc4-fdc1-4d66-a650-bb9ca47897bb" width="500" />
+
+<img src="https://github.com/user-attachments/assets/7871ce8d-61a8-4ec1-826b-b6deb36984c0" width="500" />
 
 ---
 ## Description
