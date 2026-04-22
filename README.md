@@ -129,6 +129,6 @@ Results are displayed and saved in a CSV file showing similarity percentages and
 This is a team project developed by:
 
 * Tayyab Mehmood
-* Zaib Saadat ([https://github.com/Zaib-saadat](https://github.com/Zaib-saadat))
+* Zaib Saadat ([https://github.com/Zaib-saadat])
 
 
